@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagens/AGRESSIVA.png</file>
+        <file>imagens/CONSERVADORA.png</file>
+        <file>imagens/MODERADA.png</file>
+        <file>imagens/minha_foto.jpg</file>
+    </qresource>
+</RCC>

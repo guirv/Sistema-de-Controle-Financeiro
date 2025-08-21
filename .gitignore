@@ -1,0 +1,43 @@
+﻿# ========================================
+# Arquivos de build / compilação
+# ========================================
+build*/
+*.o
+*.obj
+*.dll
+*.exe
+*.so
+*.a
+*.lib
+*.app
+*.out
+
+# ========================================
+# Arquivos temporários do Qt Creator
+# ========================================
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.creator.user
+*.autosave
+*.qmlc
+*.jsc
+
+# ========================================
+# Backups e temporários
+# ========================================
+*.bak
+*.tmp
+*.swp
+*~
+*.log
+
+# ========================================
+# Cache
+# ========================================
+.cache/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
